@@ -1,0 +1,11 @@
+{
+    "BUCKET": "s3://cellpainting-gallery/cpg0037-oasis/broad/images/2025_01_12_U2OS_Batch2/images/",
+    "TARGET": "BR00146056",
+    "REPO_DIR": "/home/jewald/repos/microscopy_computational_tools/",
+    "DATA_DIR": "/home/jewald/embeddings/",
+    "NUM_PROCESSES": 4,
+    "DNA_CHANNEL": "-ch5",
+    "CHANNEL_MAP": "DNA,Mito,RNA,ER,AGP -ch5,-ch4,-ch6,-ch2,-ch3",
+    "EMBEDDING_FORMAT": "h5"
+  }
+  
